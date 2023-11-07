@@ -11,36 +11,10 @@
 
 ***
 
+
 | [Home](index.md)  | [Lectures](lectures.md)    | [References](references.md) | [Demos](demos.md) | [About me](karthik.md) |
 
 
 ***
-
-
-### Embeddings
-[Glove Embeddings]()
-
-[Sentence Embeddings]()
-
-[Open AI Embeddings]()
-
-
-### Pre-Trained Models
-[BERT]()
-
-[sBERT]()
-
-[LLama]()
-
-
-### LLM Application Areas
-[Sentiment Identification]()
-
-[Question Answering]()
-
-
-### Chat APIs
-[ChatGPT 3.5]()
-
-[ChatGPT 4]()
+### [Embeddings based Search demo](https://searchdemo.streamlit.app)
 
