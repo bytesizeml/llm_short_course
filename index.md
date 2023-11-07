@@ -38,14 +38,19 @@ Nov 11,12 and Nov 18, 19
 1. Scaling LLMs 
 1. Langchain and LLM agents
 
-### Course Assesments
+### Course Assesments (350 points)
 
 ***
 
-1. Assignment 0
-1. Conceptual Assignment (Multiple Choice)
-1. In-class coding assignment (To be finished in class)
-1. Mini-Project
+1. Assignment 0 (70 points)
+1. Conceptual Assignment (Multiple Choice) (50 points)
+1. In-class coding assignments (To be finished in class) (100 points)
+1. Mini-Project (100 points)
+1. Mini-Project Presentation (30 points)
 
+
+|  | Assignment Type | Points | Due Date | Pdf | Starter Code (if any)
+| --- | --- | --- | --- | --- | --- |
+| 1 | Assignment 0 |  70 | November 11 (midnight) | [Assignment 0](Assessments/Assignment_0.pdf)  |  | 
 
 
