@@ -27,16 +27,20 @@
 
 ### Pre-Trained Models
 [BERT]()
+
 [sBERT]()
+
 [LLama]()
 
 
 ### LLM Application Areas
 [Sentiment Identification]()
+
 [Question Answering]()
 
 
 ### Chat APIs
 [ChatGPT 3.5]()
+
 [ChatGPT 4]()
 
