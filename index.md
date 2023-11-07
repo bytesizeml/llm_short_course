@@ -42,12 +42,6 @@ Nov 11,12 and Nov 18, 19
 
 ***
 
-1. Assignment 0 (70 points)
-1. Conceptual Assignment (Multiple Choice) (50 points)
-1. In-class coding assignments (To be finished in class) (100 points)
-1. Mini-Project (100 points)
-1. Mini-Project Presentation (30 points)
-
 
 |  | Assignment Type | Points | Due Date | Pdf | Starter Code (if any)
 | --- | --- | --- | --- | --- | --- |
