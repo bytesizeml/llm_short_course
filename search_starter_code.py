@@ -3,6 +3,15 @@ import numpy as np
 import numpy.linalg as la
 import pickle 
 
+"""
+This is a starter code for Assignment 0 of the course, "Hands-on Master Class on LLMs and ChatGPT | Autumn 2023"
+taught by Dr. Karthik Mohan.
+
+Computes closest category of a given word or sentence input into a search bar.
+The search is implemented through streamlit and can be hosted as a "web app" on the cloud through streamlit as well
+Example webpage and search demo: searchdemo.streamlit.app
+"""
+
 
 # Compute Cosine Similarity
 def cosine_similarity(x,y):
