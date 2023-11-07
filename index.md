@@ -52,5 +52,9 @@ Nov 11,12 and Nov 18, 19
 |  | Assignment Type | Points | Due Date | Pdf | Starter Code (if any)
 | --- | --- | --- | --- | --- | --- |
 | 1 | Assignment 0 |  70 | November 11 (midnight) | [Assignment 0](Assessments/Assignment_0.pdf)  |  | 
+| 2 | Conceptual Assignment | 50 | November 18 (5 pm PST) |  |  |
+| 3 | In-class coding assignments | 100 | To be finished in class |  |  |
+| 4 | Mini-Project | 100 | November 19 (8 am PST) | | |
+| 5 | Mini-Project Presentation | 30 | November 19 (In-class) | | |
 
 
