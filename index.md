@@ -1,5 +1,5 @@
 
-# Advanced Introduction to Machine Learning | Winter 2023
+# Hands-on Master Class on LLMs and ChatGPT | Autumn 2023
 
 ***
  
@@ -9,7 +9,6 @@
 
 
 #### Instructor - [Dr. Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
-#### TA - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-se/)
 
 ***
 
@@ -20,41 +19,33 @@
 ***
 
 ### Lecture Dates
-1. Tuesday: 4 pm - 6 pm PST
-1. Thursday 4 pm - 6 pm PST
-
-Lectures go from January - March 2023
-
-### Office Hours and Quiz Section Hours
-1. TA quiz section: 6-7 pm, Friday
-1. TA office hours: 6-7 pm, Saturday
-1. Grader Office hours: 5-6 pm, Saturday
-1. Karthik Office hours: 5:50 pm -6:20 pm, Tuesday and Thursday after class
+1. Saturday, Sunday 9 am - 12 pm PST
+Nov 11,12 and Nov 18, 19
 
 ### Course Syllabus
 
 ***
  
-1. Motivation and Linear Regression
-1. Binary Classification
-1. Multi-class Classification
-1. Clustering
-1. Anomaly Detection
-1. Data Visualization
-1. Deep Learning Motivation
-1. Deep Learning Mechanics
-1. Deep Learning in NLP
-1. Advanced Topics
+1. Introduction and Motivation
+1. LLMs and their usecases
+1. LLMs vs APIs
+1. Prompt Engineering
+1. Use of APIs 
+1. Embeddings for search
+1. Fine-tuning LLMs
+1. Question-Answering
+1. Sentiment Analysis
+1. Scaling LLMs 
+1. Langchain and LLM agents
 
 ### Course Assesments
 
 ***
 
-1. Conceptual Assignments
-1. Programming Assignments
-1. Mini Projects
-1. In-class Exercise
-1. Lightning Presentation
+1. Assignment 0
+1. Conceptual Assignment (Multiple Choice)
+1. In-class coding assignment (To be finished in class)
+1. Mini-Project
 
 
 
