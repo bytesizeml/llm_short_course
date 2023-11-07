@@ -18,6 +18,9 @@
 
 ***
 
+### Flavor of the Short Course
+The course will be fast paced and dynamic as its of a short duration. The course will be a mix of conceptual discussion, demos and in-class coding. Assignments are focused to maximize your learning - So have fun with it!
+
 ### Lecture Dates
 1. Saturday, Sunday 9 am - 12 pm PST
 Nov 11,12 and Nov 18, 19
@@ -33,6 +36,7 @@ Nov 11,12 and Nov 18, 19
 1. Use of APIs 
 1. Embeddings for search
 1. Fine-tuning LLMs
+1. Data Augmentation to improve performance
 1. Question-Answering
 1. Sentiment Analysis
 1. Scaling LLMs 
