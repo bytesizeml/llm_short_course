@@ -19,7 +19,9 @@
 
 ### Embeddings
 [Glove Embeddings]()
+
 [Sentence Embeddings]()
+
 [Open AI Embeddings]()
 
 
