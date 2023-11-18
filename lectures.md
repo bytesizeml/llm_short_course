@@ -27,4 +27,4 @@
 | Nov 12 | Prompt Engineering, Sentiment Analysis and Fine-tuning LLMs | [Lecture 2](Lectures/Nov_12_prompting.pdf) [Lecture 2 Fine-tuning](Lectures/Nov_12_2023_Fine_tuning.pdf) | [Lecture 2]() | [Video 2]()  |[Coding](In_Class/Nov12_inclass_exercise.ipynb) [MRPC Fine-Tune](Lectures/mrpc_full_training_hugging_face.ipynb) |
 | Nov 18 | Image2Text, Text2Image and more | [Lecture 3]() | [Lecture 3]() | [Video 3]()  |[Class WalkThrough](Lectures/Nov_18_2023_Class_Walkthrough.ipynb)  [Text2Image](Lectures/Text_to_Image_Demo.ipynb)  |
 | | | | | |[In-Class Exercise](In_Class/Nov_18_2023_In_class_Exercise.ipynb) |
-| Nov 19 | Langchain, LLM Agents and Recap| [Lecture 4]() | [Lecture 4]() | [Video 4]()  | |
+| Nov 19 | Langchain and Recap| [Lecture 4]() | [Lecture 4]() | [Video 4]()  | |
