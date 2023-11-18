@@ -42,7 +42,7 @@ Nov 11,12 and Nov 18, 19
 1. Scaling LLMs 
 1. Langchain and LLM agents
 
-### Course Assesments (350 points)
+### Course Assesments (300 points)
 
 ***
 
@@ -50,10 +50,9 @@ Nov 11,12 and Nov 18, 19
 |  | Assignment Type | Points | Due Date | Pdf | Starter Code (if any)
 | --- | --- | --- | --- | --- | --- |
 | 1 | Assignment 0 |  70 | November 11 (midnight) | [Assignment 0](Assessments/Assignment_0.pdf)  | [Starter Code](search_starter_code.py)  | 
-| 2 | Conceptual Assignment | 50 | November 18 (5 pm PST) |  |  |
-| 3 | In-class coding assignments | 100 | To be finished in class |  |  |
-| 4 | Mini-Project | 100 | November 19 (8 am PST) |[Mini-Project](Assessments/Mini_Project_LLM_2023.pdf) |[Text2Image Starter](Lectures/Text_to_Image_Demo.ipynb) | 
+| 2 | In-class coding assignments | 100 | To be finished in class |  |  |
+| 3 | Mini-Project | 100 | November 19 (8 am PST) |[Mini-Project](Assessments/Mini_Project_LLM_2023.pdf) |[Text2Image Starter](Lectures/Text_to_Image_Demo.ipynb) | 
 |  | | | | |[Image Walkthrough](Lectures/Nov_18_2023_Class_Walkthrough.ipynb)|
-| 5 | Mini-Project Presentation | 30 | November 19 (In-class) | | |
+| 4 | Mini-Project Presentation | 30 | November 19 (In-class) | | |
 
 
